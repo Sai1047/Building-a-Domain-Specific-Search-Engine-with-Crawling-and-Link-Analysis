@@ -1,5 +1,15 @@
 #  Project 03: Domain-Specific Search Engine with Crawling and Link Analysis
 
+##  Introduction
+
+This project implements a domain-specific search engine focused on football-related content.  
+It uses web crawling to collect data from selected football websites.  
+An inverted index is built for keyword-based search functionality.  
+A web connection graph is constructed using extracted hyperlinks.  
+PageRank and HITS algorithms are applied to rank pages based on link analysis.  
+The engine returns ranked, relevant pages for user queries within the football domain.
+
+
 ## Objective
 
 The objective of this project is to design and implement a basic **domain-specific search engine** by:
